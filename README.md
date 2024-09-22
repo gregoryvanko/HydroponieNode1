@@ -1,7 +1,7 @@
 # HydroponieNode1
-Arduino with capteur to can network
+Capteurs de Temperature, TDS, Présence d'eau et de distance par ultrason,controlés par un arduino. Les valeurs sont communiquée par un message CAN
 
-Noeud CAN a base d'arduino nano et de différents capteurs:
+Noeud CAN controlé par un arduino nano et de différents capteurs:
 - Capteur de temperature DS18B20
 - Capteur TDS
 - Capteur ultrason JSN SR04
