@@ -1,5 +1,5 @@
 # HydroponieNode1
-Capteurs de Temperature, TDS, Présence d'eau et de distance par ultrason,controlés par un arduino. Les valeurs sont communiquée par un message CAN
+Capteurs de Temperature, TDS, Présence d'eau, et de distance par ultrason,controlés par un arduino. Les valeurs sont communiquées par un message CAN
 
 Noeud CAN controlé par un arduino nano et de différents capteurs:
 - Capteur de temperature DS18B20
